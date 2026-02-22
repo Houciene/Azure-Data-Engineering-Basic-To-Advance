@@ -30,14 +30,16 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 ![Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 
-**Core Technologies Covered:**
-- **Cloud:** Azure (Blob Storage, ADLS Gen2, Data Factory, Synapse, Event Hub, Cosmos DB, Logic Apps, Functions), GCP (Dataproc, BigQuery, Pub/Sub).
-- **Data Processing:** Apache Spark (PySpark), Hive, Trino.
-- **Modern Table Formats:** Delta Lake, Apache Iceberg, Apache Hudi.
-- **Databases:** MySQL, MongoDB, Cassandra, Snowflake.
-- **Streaming:** Confluent Kafka, GCP Pub/Sub, Azure Event Hubs.
-- **Orchestration:** Apache Airflow (managed as Cloud Composer).
-- **AI & Automation:** n8n, OpenAI/ChatGPT integration, Agentic AI.
+### 📑 Core Technologies Table
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | Azure (Blob, ADLS Gen2, ADF, Synapse, Event Hub, Cosmos DB, Logic Apps), GCP (Dataproc, BigQuery, Pub/Sub) |
+| **Data Processing** | Apache Spark (PySpark), Hive, Trino |
+| **Table Formats** | Delta Lake, Apache Iceberg, Apache Hudi |
+| **Databases** | MySQL, MongoDB, Cassandra, Snowflake |
+| **Streaming** | Confluent Kafka, GCP Pub/Sub, Azure Event Hubs |
+| **Orchestration** | Apache Airflow (Cloud Composer) |
+| **AI & Automation** | n8n, OpenAI/ChatGPT, Agentic AI |
 
 ---
 
