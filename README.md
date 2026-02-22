@@ -64,49 +64,67 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 - **MySQL:** Setup Workbench, Integrity Constraints.
 - **Commands:** DDL, DML, DQL, DCL (CREATE, INSERT, ALTER, DROP, TRUNCATE, DELETE).
 - **Advanced Querying:** Joins, Subqueries, Window Functions, CTEs (Recursive & Iterative), CASE Statements.
+<img width="841" height="1345" alt="image" src="https://github.com/user-attachments/assets/a358abc1-7d05-4898-a4fd-7e24acef01f1" />
 
 ### 🔹 Module 2: Big Data Fundamentals (Hadoop & Hive)
 - **Concepts:** Distributed Computation/Storage, Hadoop Architecture (HDFS, YARN, Map-Reduce).
 - **Hive:** Architecture, Data Types, SerDe (CSV, JSON, Parquet, ORC), Partitioning (Static/Dynamic), Bucketing, and Joins.
+<img width="827" height="1320" alt="image" src="https://github.com/user-attachments/assets/ad777d04-501f-4462-9d88-9c5039ff62e0" />
 
 ### 🔹 Module 3: Confluent Kafka & Real-Time Streaming
 - **Architecture:** Brokers, Topics, Partitions, Replicas, Offset Management.
 - **Programming:** Producer/Consumer API (Sync/Async), Serialisation/Deserialisation (JSON, CSV).
 - **Cloud Integration:** GCP Pub-Sub Setup and Producer/Consumer implementation.
+<img width="840" height="808" alt="image" src="https://github.com/user-attachments/assets/778b31d2-ac96-4ea2-8514-4c47812ae6df" />
 
 ### 🔹 Module 4: NoSQL Databases (MongoDB & Cassandra)
 - **MongoDB:** Atlas Setup, MongoDB Compass, Queries via Python, KSQLdb Integration.
 - **Cassandra:** CAP Theorem, Architecture (SSTables, Mem-tables), Gossip Protocol, Consistency Levels, and CQL queries.
+<img width="733" height="1099" alt="image" src="https://github.com/user-attachments/assets/c9a0d1ab-0d06-4b72-860c-638bca3590c1" />
+<img width="809" height="989" alt="image" src="https://github.com/user-attachments/assets/f4f7d413-456f-412f-84b9-acde747c0691" />
 
 ### 🔹 Module 5: Apache Spark (PySpark)
 - **Core Spark:** RDDs, Dataframes, Spark Ecosystem, Narrow vs. Wide Transformations, Lazy Evaluation, DAGs.
 - **Optimizations:** Caching/Persisting, Skewness Handling, Salting, Repartition vs. Coalesce, Memory Management.
 - **Streaming:** Structured Streaming, Checkpointing, Watermarking, Windowed Aggregations (Tumbling/Sliding).
+<img width="752" height="800" alt="image" src="https://github.com/user-attachments/assets/ffe1d5e4-8842-44dd-ae04-4d9f410c0172" />
+<img width="824" height="739" alt="image" src="https://github.com/user-attachments/assets/2636e046-cda8-4116-b09c-c0e7023e8cb9" />
+<img width="808" height="840" alt="image" src="https://github.com/user-attachments/assets/de5676d8-dfda-4caa-bd80-b10fdf0c4ae7" />
+<img width="854" height="1021" alt="image" src="https://github.com/user-attachments/assets/7e2640e1-ab79-4ea6-b8b4-f4a28b1c67e5" />
 
 ### 🔹 Module 6: Apache Airflow (Orchestration)
 - **Core Concepts:** DAGs, Operators (Bash, Python), Tasks Dependency.
 - **Cloud Composer:** Running DAGs on GCP, parallel tasks, and backfilling.
+<img width="828" height="729" alt="image" src="https://github.com/user-attachments/assets/54179b6f-0033-409f-9440-fbfae2992c7e" />
 
 ### 🔹 Module 7: Databricks & Delta Lake
 - **Unity Catalog:** Governance, Managed vs. External Tables, Volumes.
 - **Delta Lake:** ACID transactions, Time Travel, Schema Evolution, Delta Sharing.
 - **DLT:** Delta Live Tables Medallion Architecture.
+<img width="863" height="1108" alt="image" src="https://github.com/user-attachments/assets/22aa82b3-dce6-4226-a475-ff8bcd901756" />
 
 ### 🔹 Module 8: Data Warehousing
 - **Modeling:** Start Schema, Snowflake Schema, Galaxy Schema.
 - **Concepts:** OLAP vs. OLTP, Fact & Dimension tables, SCD Types (SCD1, SCD2).
 - **Case Studies:** Expedia & Swiggy Data Modeling.
+<img width="845" height="1076" alt="image" src="https://github.com/user-attachments/assets/4174cfdc-b4fc-4ce0-81f8-2b5584505a08" />
 
 ### 🔹 Module 9: Snowflake & BigQuery
 - **Snowflake:** SnowPipe for event-driven ingestion, Storage Integration.
 - **BigQuery:** Architecture (Capacitor, Colossus, Dremel), External vs. Managed Tables, ML/AI features (Gemini integration).
+<img width="840" height="728" alt="image" src="https://github.com/user-attachments/assets/e256d978-c6f5-488a-9855-efd4da0205df" />
+<img width="839" height="1167" alt="image" src="https://github.com/user-attachments/assets/e5747cc1-35c5-42fd-a946-294c6601d8ed" />
 
 ### 🔹 Module 10: Open Table Formats (Iceberg & Hudi)
 - **Apache Iceberg:** Metadata Layer, Manifests, CoW vs. MoR, Compaction.
 - **Apache Hudi:** Incremental Pipelines, Multi-modal Indexes, Storage Layout.
+<img width="734" height="1035" alt="image" src="https://github.com/user-attachments/assets/da413f6c-a2c5-4fd2-b34d-a54abf93de1c" />
+<img width="844" height="1140" alt="image" src="https://github.com/user-attachments/assets/4f1a3671-e757-4e68-87f2-4d4ade6eb97c" />
 
 ### 🔹 Module 11: Apache Trino
 - **Distributed SQL:** Architecture (Coordinator/Workers), Physical/Logical Plans, Connector ecosystem (MongoDB, GCS, etc.).
+
+<img width="820" height="1113" alt="image" src="https://github.com/user-attachments/assets/9f2301d4-3cf2-40ae-bac8-7b991e2ad28e" />
 
 ### 🔹 Module 12: Azure Cloud Services Deep Dive
 - **Storage:** Blob, ADLS Gen2.
