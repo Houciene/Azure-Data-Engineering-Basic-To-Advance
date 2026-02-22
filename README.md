@@ -116,6 +116,12 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 - **Global Database:** Cosmos DB.
 - **Governance:** Key Vault, RBAC.
 
+<img width="828" height="805" alt="image" src="https://github.com/user-attachments/assets/752cf6b6-17d5-4638-ada0-71091450581a" />
+<img width="835" height="976" alt="image" src="https://github.com/user-attachments/assets/2f11d0fd-29a1-41ba-8f72-4fda6d16d611" />
+<img width="803" height="686" alt="image" src="https://github.com/user-attachments/assets/354c1bbf-f7b6-40a5-8970-6020fd76af5d" />
+<img width="824" height="933" alt="image" src="https://github.com/user-attachments/assets/f59636bd-12a4-4cd5-b3b9-f00054066a6d" />
+
+
 ---
 
 ## 🚀 Industrial Projects (15+)
@@ -137,6 +143,9 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 | 13 | **BookMyShow Real-Time Pipeline** | Azure Event Hub, Stream Analytics, Synapse, n8n |
 | 14 | **Airlines Incremental Processing** | Azure DevOps, ADF, ADLS, GitHub |
 | 15 | **Ride Analytics Pipeline (Uber/Ola)** | FastAPI, Docker, Cloud Run, Artifact Registry, GH Actions |
+
+<img width="835" height="1341" alt="image" src="https://github.com/user-attachments/assets/24d65803-ec2f-4afd-b0df-0cd1c84d9725" />
+
 
 ---
 
