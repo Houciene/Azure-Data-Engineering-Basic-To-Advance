@@ -106,21 +106,23 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 
 ## 🚀 Industrial Projects (15+)
 
-1.  **Flight Booking Data Pipeline:** Airflow, PySpark, Dataproc, BigQuery, CI/CD.
-2.  **E-commerce Event-Driven Pipeline:** Databricks, Delta Lake, Workflows.
-3.  **Travel Booking SCD2 Warehouse:** Databricks, Unity Catalog, PyDeequ.
-4.  **Healthcare DLT Medallion Pipeline:** Databricks Delta Live Tables.
-5.  **UPI Transactions CDC Streaming:** PySpark Structured Streaming, Delta CDF.
-6.  **News Data Analysis:** Snowflake, SnowPipe, Airflow, GCS.
-7.  **Car Rental Batch Ingestion:** GCP Dataproc, Airflow, Snowflake.
-8.  **Movie Booking Real-time Aggregation:** Snowflake Dynamic Tables & Streams.
-9.  **Weather Forecast Processing:** OpenWeather API, Airflow, PySpark, BigQuery.
-10. **Unified Stock Trading Platform:** Trino, MongoDB, BigQuery, Airflow.
-11. **Fintech SQL Migration:** Azure Synapse, SQL DB, Logic Apps.
-12. **AirBnB CDC Ingestion:** Azure Data Factory, Cosmos DB, Synapse, Agentic AI.
-13. **BookMyShow Real-Time Pipeline:** Azure Event Hub, Stream Analytics, n8n.
-14. **Airlines Incremental Processing:** Azure DevOps CI/CD, ADF, ADLS.
-15. **Ride Analytics Pipeline (Uber/Ola Clone):** FastAPI, Docker, Cloud Run, Artifact Registry, GitHub Actions.
+| # | Project Name | Tech Stack |
+| :--- | :--- | :--- |
+| 1 | **Flight Booking Data Pipeline** | Airflow, PySpark, Dataproc, BigQuery, CI/CD |
+| 2 | **E-commerce Event-Driven Pipeline** | Databricks, Delta Lake, Workflows, GitHub |
+| 3 | **Travel Booking SCD2 Warehouse** | Databricks, Unity Catalog, PyDeequ, Volumes |
+| 4 | **Healthcare DLT Medallion Pipeline** | Databricks DLT, Delta Lake, SQL, Unity Catalog |
+| 5 | **UPI Transactions CDC Streaming** | PySpark Structured Streaming, Delta CDF, Unity Catalog |
+| 6 | **News Data Analysis** | Airflow, GCS, Python, Snowflake |
+| 7 | **Car Rental Batch Ingestion** | Python, PySpark, GCP Dataproc, Airflow, Snowflake |
+| 8 | **Movie Booking CDC Aggregation** | Snowflake Dynamic Tables, Streams, Tasks, Streamlit |
+| 9 | **Weather Forecast Processing** | OpenWeather API, Airflow, PySpark, BigQuery, GCS |
+| 10 | **Unified Stock Trading Platform** | Trino, MongoDB, BigQuery, Airflow, Python |
+| 11 | **Fintech SQL Data Migration** | Azure Synapse, SQL DB, ADLS, PySpark, Logic Apps |
+| 12 | **AirBnB CDC Ingestion Pipeline** | Azure ADF, Cosmos DB, Synapse, n8n, Agentic AI |
+| 13 | **BookMyShow Real-Time Pipeline** | Azure Event Hub, Stream Analytics, Synapse, n8n |
+| 14 | **Airlines Incremental Processing** | Azure DevOps, ADF, ADLS, GitHub |
+| 15 | **Ride Analytics Pipeline (Uber/Ola)** | FastAPI, Docker, Cloud Run, Artifact Registry, GH Actions |
 
 ---
 
