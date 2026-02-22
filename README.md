@@ -1,6 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Data%20Engineering%20With%20Azure&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 # Azure Data Engineering: Basic to Advance 🚀
 
 Welcome to the comprehensive repository for **Azure Data Engineering - Basic to Advance**. This project covers everything from foundational SQL and Big Data concepts to advanced cloud-based data orchestration, real-time streaming, and industrial-scale data pipelines using the Azure ecosystem.
+
+<img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/dab31dbc-56b2-462d-941e-f53f0044d36d" />
+<img width="795" height="521" alt="image" src="https://github.com/user-attachments/assets/8c5cac69-6113-4a5c-92e3-dfb613d3fcc4" />
+
 
 ---
 
