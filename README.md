@@ -57,7 +57,7 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 
 ---
 
-## 📚 Course Curriculum & Modules
+## 📚 Modules Breakdown ( Live Content's Coming Soon ) 
 
 ### 🔹 Module 1: SQL Mastery
 - **Foundations:** Database vs. DBMS/RDBMS, ACID Properties.
